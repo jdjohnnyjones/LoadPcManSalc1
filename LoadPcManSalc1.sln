@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "LoadPcManSalc1", "LoadPcManSalc1\LoadPcManSalc1.dtproj", "{5B910183-4248-4BCB-BE20-2640F57544CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B910183-4248-4BCB-BE20-2640F57544CD}.Development|Default.ActiveCfg = Development
+		{5B910183-4248-4BCB-BE20-2640F57544CD}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AF2F694-0DEC-4305-86CD-52648874AD0A}
+	EndGlobalSection
+EndGlobal

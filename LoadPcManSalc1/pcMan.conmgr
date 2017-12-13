@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="pcMan"
+  DTS:DTSID="{478BC397-B7F3-444D-9323-4EC7D8B2F3A8}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=\\10.22.40.1:2001\vol1\app\prodcnt\data\sgnlive.add;Initial Catalog=sgnlive.add;Provider=Advantage.OLEDB.1;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
